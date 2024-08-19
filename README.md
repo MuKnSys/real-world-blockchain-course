@@ -7,4 +7,4 @@
 
 This course is developed for the following audiences.
 * Enterprise IT professionals
-* 
+* Crypto investors or potential crypto investors
