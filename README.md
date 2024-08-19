@@ -1,4 +1,4 @@
-# real-world-blockchain-course
+# Real World Blockchain Course
 
 ![](assets/images/real-world-blockchain.png)
 
