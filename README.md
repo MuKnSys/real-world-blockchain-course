@@ -5,5 +5,5 @@
 
 ## Intended Audience
 
-
 This course is developed for the following audiences.
+* Enterprise IT professionals  
