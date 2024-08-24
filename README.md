@@ -9,3 +9,5 @@ This course is developed for enterprise IT professionals
 
 
 ## Connect with the Community
+
+Connect with us on [Telegram](https://t.me/web3enabler).
