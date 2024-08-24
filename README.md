@@ -6,3 +6,6 @@
 ## Intended Audience
 
 This course is developed for enterprise IT professionals
+
+
+## Connect with the Community
