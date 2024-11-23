@@ -9,6 +9,7 @@ After hosting the [Real World Blockchain podcast](https://www.youtube.com/playli
 
 ## Blockchain Learning Resources for Salesforce Administrators
 
+Since we are a Salesforce Independent Software Vendor (ISV) partner, with a [product] on the AppExchange, we are committed to providing the Salesforce ecosystem with the knowledge they need for a smooth onboarding to managing payments in cryptocurrencies and stablecoins.
 
 ## Connect with the Community
 
