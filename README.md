@@ -11,6 +11,8 @@ After hosting the [Real World Blockchain podcast](https://www.youtube.com/playli
 
 Since we are a Salesforce Independent Software Vendor (ISV) partner, with a [product](https://appexchange.salesforce.com/appxListingDetail?listingId=ee4c011b-7a5b-4a50-91fb-f28049390858) on the AppExchange, we are committed to providing the Salesforce ecosystem with the knowledge they need for a smooth onboarding to managing payments in cryptocurrencies and stablecoins.
 
+The following are some helpful introductory resources.
+
 * [Salesforce Administrator Guide to Cryptocurrencies](assets/_Web3%20Enabler%20Salesforce%20Administrator%20Guide%20to%20Cryptocurrencies.pdf)
 * [Salesforce Admininistrator Guide to Web3 Wallets](assets/_Web3%20Enabler%20Salesforce%20Admininistrator%20Guide%20to%20Web3%20Wallets.pdf)
 
